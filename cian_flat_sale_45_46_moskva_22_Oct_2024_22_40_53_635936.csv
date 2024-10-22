@@ -1,0 +1,4 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+PEOPLE;real_estate_agent;https://www.cian.ru/sale/flat/304681968/;Москва;sale;flat;5;40;1;40.0;34000000;2021;-1;-1;-1;-1;-1;-1;+79060436238;Хорошевский;Ленинградский проспект;37/4;ЦСКА;Прайм Парк
+Оптима МСК;official_representative;https://www.cian.ru/sale/flat/307871244/;Москва;sale;flat;2;4;2;54.8;33976000;2024;-1;-1;-1;-1;-1;10 м²;+79670385970;Мещанский;Олимпийский проспект;12;Цветной бульвар;Sole Hills
+Verges of estate;real_estate_agent;https://www.cian.ru/sale/flat/308398271/;Москва;sale;flat;28;48;2;116.0;39900000;2010;-1;-1;-1;-1;-1;20 м²;+79166123032;Обручевский;Ленинский проспект;111к1;Новаторская;Well House на Ленинском

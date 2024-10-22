@@ -2,7 +2,7 @@ import cianparser
 from time import sleep
 
 a = 0
-while a < 52:
+while a < 108:
     moscow_parser = cianparser.CianParser(location="Москва")
     data = moscow_parser.get_flats(
         deal_type="sale",

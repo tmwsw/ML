@@ -1,0 +1,4 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+Ольга Гордиенко;realtor;https://www.cian.ru/sale/flat/306477686/;Москва;sale;flat;24;24;1;38.1;15000000;2021;-1;-1;-1;-1;10 м²;22 м²;+79164381190;Метрогородок;Тагильская ;4А;Бульвар Рокоссовского;Сиреневый парк
+Московский Квартал;real_estate_agent;https://www.cian.ru/sale/flat/308363063/;Москва;sale;flat;9;9;2;40.0;14999999;1964;-1;-1;-1;-1;23 м²;6 м²;+79166245378;Обручевский; Новаторов;40К14;Новаторская;
+Екатерина Минибаева;realtor;https://www.cian.ru/sale/flat/308450634/;Москва;sale;flat;4;9;2;47.5;14990000;1978;-1;-1;-1;-1;30 м²;7 м²;+79197677812;Ясенево;Литовский бульвар;11К5;Ясенево;
