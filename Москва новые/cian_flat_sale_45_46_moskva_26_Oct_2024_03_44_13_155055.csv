@@ -1,0 +1,5 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+Лилия Ильина;realtor;https://www.cian.ru/sale/flat/309050145/;Москва;sale;flat;6;9;3;75.0;19000000;1974;-1;-1;-1;-1;47,1 м²;10,8 м²;+79854452121;Коптево;проезд Черепановых;68;Лихоборы;
+Юлия Левина;realtor;https://www.cian.ru/sale/flat/309050143/;Москва;sale;flat;13;25;3;113.0;69900000;-1;-1;-1;-1;-1;70 м²;15 м²;+79858327250;Нагатино-Садовники;1-й Нагатинский проезд;11к1;Нагатинская;Скай Форт
+Estate msk;real_estate_agent;https://www.cian.ru/sale/flat/309050142/;Москва;sale;flat;3;12;4;100.2;19400000;2024;-1;-1;-1;Чистовая;54,8 м²;28,8 м²;+79850096208;;;5.1.4;Прокшино;Прокшино ЖК
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/309049368/;Москва;sale;flat;7;8;4;260.8;125000000;-1;-1;-1;-1;-1;170 м²;20 м²;+79164539676;Раменки;Минская ;1А;Минская;Золотые Ключи 1
