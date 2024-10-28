@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import csv
 
-df = pd.read_csv("df_to_me.csv", index_col=0)
+df = pd.read_csv("upd4_main.csv", index_col=0)
 list_of_cities = df["location"].unique()
 # print(list_of_cities)
 

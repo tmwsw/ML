@@ -1,6 +1,36 @@
 import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import csv
 
-# Укажите правильный разделитель и кодировку
-df = pd.read_csv("moskva.csv", sep=";", encoding="UTF-8").drop_duplicates()
+df = pd.read_csv("main3.csv")
+# df = df.replace("-1", np.nan)
+# df = df.replace(-1, np.nan)
+# df = df.replace(-1.0, np.nan)
+# df = df.replace("-1.0", np.nan)
+# df.to_csv("clear_main.csv", index=False)
 
-print(df.head())
+# def price_for_meter(location):
+#     city = df[df["location"] == location]
+#     city_price = city["price"].sum()
+
+#     cleaned_data = [x.replace("м²", "").strip() for x in city["total_meters"]]
+#     cleaned_data = [x.replace("-1", "0").strip() for x in cleaned_data]
+#     cleaned_data = [x.replace("���", "0").strip() for x in cleaned_data]
+#     df.to_csv("main1.csv", index=False)
+#     cleaned_data = pd.to_numeric(
+#         [x.replace(",", ".").strip() for x in cleaned_data]
+#     ).sum()
+
+#     return round(city_price / cleaned_data, 2)
+
+# for col in df.columns:
+#     pct_missing = np.mean(df[col].isnull())
+#     print("{} - {}%".format(col, round(pct_missing * 100)))
+
+
+# def cleaner(location):
+#     city = df[df["location"] == location]
+
+print(df.shape)
